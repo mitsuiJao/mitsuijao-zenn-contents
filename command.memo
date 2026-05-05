@@ -1,0 +1,4 @@
+   * 新しい記事を作成する:
+   1   npx zenn new:article
+   * 記事をローカルでプレビューする:
+   1   npx zenn preview
